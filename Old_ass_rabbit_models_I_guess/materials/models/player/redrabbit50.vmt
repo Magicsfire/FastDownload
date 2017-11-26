@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models/player/redrabbit50"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/player/redrabbit_spec"
+	"$model"	"1"
+	"$envmaptint" "[.5 .5 .5]"
+}

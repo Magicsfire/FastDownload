@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Old_ass_rabbit_models_I_guess"
+	"author_name" "Unknown"
+	"info" "This Pack contain, Red, Blue, Green, Pink, Purple, Dark Red, White and Orange Rabits, they are PlayerModels and ragdolls right."
+}

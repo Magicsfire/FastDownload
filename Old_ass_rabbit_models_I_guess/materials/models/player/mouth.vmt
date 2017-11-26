@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+$baseTexture "models\player\mouth"
+$bumpmap "models\player\redrabbit_spec"
+$vertexalpha "0"
+"$selfillum" 1
+"$translucent" 1
+}

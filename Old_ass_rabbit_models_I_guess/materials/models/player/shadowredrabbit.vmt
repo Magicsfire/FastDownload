@@ -1,0 +1,40 @@
+VertexLitGeneric
+{
+$baseTexture "models\player\redrabbit"
+$bumpmap "models\player\redrabbit_spec"
+
+"$cloakpassenabled" "1"
+"$cloakfactor" "0.97"
+"$cloakcolortint" "[0 0 0]"
+"$refractamount" "0"
+
+"$nodecal" "1"
+
+Proxies
+{
+"Sine"
+{
+"sineperiod" 2
+"sinemin" "0"
+"sinemax" "0.4"
+"timeoffset" "0"
+"resultVar" "$cloakcolortint[0]"
+}
+"Sine"
+{
+"sineperiod" 2
+"sinemin" "0"
+"sinemax" "0.4"
+"timeoffset" "0"
+"resultVar" "$cloakcolortint[1]"
+}
+"Sine"
+{
+"sineperiod" 2
+"sinemin" "0"
+"sinemax" "0.4"
+"timeoffset" "0"
+"resultVar" "$cloakcolortint[2]"
+}
+}
+}

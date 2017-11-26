@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\player\eyes"
+$bumpmap "models\player\redrabbit_spec"
+"$selfillum" 1
+

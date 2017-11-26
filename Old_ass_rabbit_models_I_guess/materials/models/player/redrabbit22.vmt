@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models/player/redrabbit22"
+	"$model" 1
+	"$translucent"  1
+
+
+}
